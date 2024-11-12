@@ -1,9 +1,9 @@
-Nombre,Apellido,Cedula,Estatus,Piso,Departamento,Autorizado,CI_autorizado,Fecha,Hora
-Rolando,Alvarez,12.345.678,Activo,10,Tecnologia,,,,
-Jose,Polanco,65.478.213,Activo,11,Comercio Exterior,,,,
-Daniel,Valera,14.785.236,Activo,10,Demografica,,,,
-Jose,Estanga,34.685.293,Activo,9,Miranda,,,,
-Alida,Meza,43.698.521,Activo,11,Presupuesto,,,,
-Diego,Pacheco,36.485.214,Activo,9,planes,,,,
-Gustavo,Caro,12.485.342,Activo,Mz 2,RRHH,,,,
-,,,,,,,,,
+Nombre,Apellido,Cedula,Estatus,Cod_estatus,Piso,Departamento,Autorizado,CI_autorizado,Fecha,Hora
+Rolando,Alvarez,12.345.678,Activo,001,10,Tecnologia,,,,
+Jose,Polanco,65.478.213,Activo,001,11,Comercio Exterior,,,,
+Daniel,Valera,14.785.236,Activo,001,10,Demografica,,,,
+Jose,Estanga,34.685.293,Activo,001,9,Miranda,,,,
+Alida,Meza,43.698.521,Activo,001,11,Presupuesto,,,,
+Diego,Pacheco,36.485.214,Activo,001,9,planes,,,,
+Gustavo,Caro,12.485.342,Activo,001,Mz 2,RRHH,,,,
+,,,,,,,,,,
