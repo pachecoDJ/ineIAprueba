@@ -1,4 +1,5 @@
-Nombre;Apellido;Cedula;Usuario;Clave;correo
-Maria;Viloria;12345678;mv12345678;mv12345;mv1234@gg.com
-Levis;Torrealba;98765432;lt98765432;lt12345;lt1234@gg.com
-Pedro;Perez;23456789;pp23456789;ppi12345;pp1234@gg.com
+Nombre,Apellido,Cedula,Usuario,Clave,correo
+Maria,Viloria,12345678,mv12345678,mv12345,mv1234@gg.com
+Levis,Torrealba,98765432,lt98765432,lt12345,lt1234@gg.com
+Pedro,Perez,23456789,pp23456789,ppi12345,pp1234@gg.com
+,,,,,
